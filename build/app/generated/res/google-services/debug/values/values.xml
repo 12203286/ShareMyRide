@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">414671900620</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYki3GfylEICg9N4eIN-r2O0k7TEnDLdc</string>
+    <string name="google_app_id" translatable="false">1:414671900620:android:105ad896c504b18c481769</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYki3GfylEICg9N4eIN-r2O0k7TEnDLdc</string>
+    <string name="google_storage_bucket" translatable="false">sharemyride-e356a.appspot.com</string>
+    <string name="project_id" translatable="false">sharemyride-e356a</string>
+</resources>
